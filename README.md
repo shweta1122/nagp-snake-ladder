@@ -1,7 +1,7 @@
-#Snakes and Ladders Game
+**Snakes and Ladders Game
 
 
-#Overview
+**Overview
 This is a Python implementation of the classic Snakes and Ladders board game. The game features a configurable board size, customizable number of players, and dynamic placement of snakes and ladders. It includes visualizations of the game board and player progress using Matplotlib and Seaborn.
 
 
